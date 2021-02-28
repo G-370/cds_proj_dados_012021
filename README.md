@@ -16,12 +16,14 @@ Neste repositório contém os arquivos de definição da máquina virtual vagran
 
 ### Informações Relevantes
 * Endereços para dentro da máquina virtual: 
-  + MYSQL: localhost:33006,
-  + PHPMYADMIN: localhost:33008/phpmyadmin
+  + **MYSQL**: localhost:33006,
+  + **PHPMYADMIN**: localhost:33008/phpmyadmin
 * Credenciais do banco
-  + usuário:	user123
-  + senha:	1234986
+  + **usuário**:	user123
+  + **senha**:	1234986
 * Credenciais do phpmyadmin
-  + usuário: 	root
-  + senha: 	1234986
-* As credenciais são definidas no arquivo bootstrap.sh
+  + **usuário**: 	root
+  + **senha**: 	1234986
+  
+  
+* *As credenciais são definidas no arquivo bootstrap.sh*

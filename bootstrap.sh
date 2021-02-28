@@ -3,7 +3,7 @@
 DBHOST=localhost
 DBNAME=projdados
 DBUSER=user123
-DBPASSWD=1234986
+DBPASSWD=f0rgetTIMEf0rgetFUTURE_LIVENOW!
 
 apt-get update
 apt-get install vim curl build-essential python-software-properties git
